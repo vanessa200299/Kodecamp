@@ -1,0 +1,61 @@
+.custom-card {
+  width: 300px;
+  margin: 50px;
+}
+
+.custom-card-image {
+  width: 300px;
+  height: 400px;
+  cursor: pointer;
+}
+
+.green-botton {
+  background-color: aqua;
+}
+
+.detalle {
+  cursor: pointer;
+  text-decoration: none;
+}
+
+/* Logo of page */
+.logo {
+  width: 17px; 
+  height: 19px;
+}
+
+/* Second Navbar  */
+.nav-link {
+  color: black;
+}
+.nav-link:focus, .nav-link:hover {
+  color: #9e6181;
+}
+
+/* Image details */
+.image-detalle {
+  width: 400px;
+  height: 475px;
+}
+
+/* no funciona */
+.nav-button{
+  color: #fff;
+  background-color: #3a8b5c;
+  }
+
+
+
+
+@media (max-width: 600px) {
+  .custom-card {
+    width: 500px;
+  }
+  .custom-card-image {
+    width: 500px;
+    height: 500px;
+  }
+  .img-logo{
+    max-width: 360px;
+  }
+}
