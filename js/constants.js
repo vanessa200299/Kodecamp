@@ -1,0 +1,1 @@
+export const baseUrl = "https://kodecamp22-default-rtdb.firebaseio.com/"
